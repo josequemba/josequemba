@@ -8,15 +8,17 @@ About Me
 	•	🌐 I’m also building a personal website for a friend using React to showcase their portfolio and projects.
 	•	🎯 My goal is to create software that solves real-world problems and brings meaningful ideas to life.
 	•	💬 Feel free to ask me about mobile development, full-stack development, or anything related to databases. I’m always up for a good tech conversation or collaboration!
-
+ 
 Technologies and Tools
 	•	Languages: JavaScript, Python, C#, Swift, Dart
 	•	Frameworks/Libraries: React, React Native, Node.js, Flutter
 	•	Databases: MongoDB, PostgreSQL, MySQL
 	•	Tools & APIs: Firebase, Supabase, Stripe API, Jira
+
 Let’s Connect!
 	•	📄 Check out my https://www.linkedin.com/in/jose-quemba-4959ba23b/
 	•	🐦 Follow me on Facebook https://www.facebook.com/jose.eliud.79
 	•	📧 Email: quemba.joseeliud@gmail.com
+
 
 Feel free to explore my projects and reach out if you have questions or want to collaborate. Thanks for stopping by—happy coding! 🚀
