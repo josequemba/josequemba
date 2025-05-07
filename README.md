@@ -10,10 +10,10 @@ About Me
 	•	💬 Feel free to ask me about mobile development, full-stack development, or anything related to databases. I’m always up for a good tech conversation or collaboration!
  
 Technologies and Tools
-	•	Languages: JavaScript, Python, C#, Swift, Dart
-	•	Frameworks/Libraries: React, React Native, Node.js, Flutter
-	•	Databases: MongoDB, PostgreSQL, MySQL
-	•	Tools & APIs: Firebase, Supabase, Stripe API, Jira
+	•	Languages: JavaScript, Python, C#, Swift, Dart, Kotlin, C++
+		Frameworks & Libraries: React, React Native, Node.js, Next.js, Flutter, SwiftUI, UIKit
+		Databases: MongoDB, PostgreSQL, MySQL, PostGIS
+		Tools & APIs: Firebase, Supabase, Stripe API, Jira
 
 Let’s Connect!
 	•	📄 Check out my https://www.linkedin.com/in/jose-quemba-4959ba23b/
